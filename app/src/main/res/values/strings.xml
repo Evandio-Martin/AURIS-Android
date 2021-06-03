@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Auris Project</string>
+    <string name="picture">Picture</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera and storage permission.</string>
+    <string name="title_home">Home</string>
+    <string name="logo">Auris Logo</string>
+    <string name="auris">AURIS</string>
+    <string name="start">Start</string>
+    <string name="alphabet">Alphabet</string>
+    <string name="numbers">Numbers</string>
+    <string name="dummy">A</string>
+    <string name="image">Image</string>
+    <string name="learn">Learn Sign Language</string>
+    <string name="title_dictionary">Dictionary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instruction">Point The Camera To The Sign Language</string>
+    <string name="welcome">Hi, Welcome To</string>
+    <string name="translation_result">Translation Result Here</string>
+    <string name="btn_processing_start">START</string>
+    <string name="btn_processing_stop">STOP</string>
+    <string name="camera_caution">Please click start button to start detections</string>
+</resources>
