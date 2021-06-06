@@ -7,7 +7,7 @@ plugins {
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.google.tflite.objectdetection"
+        applicationId "com.bangkit.auris"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
