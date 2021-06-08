@@ -9,7 +9,7 @@ https://github.com/othneildrew/Best-README-Template/
 <p align="center">
   <h3 align="center">Auris Project</h3>
   <a href="https://github.com/frostygum/Auris-Bangkit-Capstone">
-    <img src="docs/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/frostygum/Auris-Bangkit-Capstone/blob/main/docs/logo.png" alt="Logo" width="80" height="80">
   </a>
   <p>
     This is final android studio project for Auris Project that has been implemented with tensorflow model. This project is forked from our team project and develop more with machine learning team project.
@@ -41,10 +41,10 @@ https://github.com/othneildrew/Best-README-Template/
 
 <div>
   <p align="center">
-    <img src="docs/screenshoot-2.jpg" width="200">
-    <img src="docs/screenshoot-1.jpg" width="200">
-    <img src="docs/screenshoot-3.jpg" width="200">
-    <img src="docs/screenshoot-4.jpg" width="200">
+    <img src="https://github.com/frostygum/Auris-Bangkit-Capstone/blob/main/docs/screenshoot-2.jpg" width="200">
+    <img src="https://github.com/frostygum/Auris-Bangkit-Capstone/blob/main/docs/screenshoot-1.jpg" width="200">
+    <img src="https://github.com/frostygum/Auris-Bangkit-Capstone/blob/main/docs/screenshoot-3.jpg" width="200">
+    <img src="https://github.com/frostygum/Auris-Bangkit-Capstone/blob/main/docs/screenshoot-4.jpg" width="200">
   </p>
 </div>
 
