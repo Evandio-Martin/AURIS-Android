@@ -7,10 +7,10 @@ https://github.com/othneildrew/Best-README-Template/
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Auris Project</h3>
   <a href="https://github.com/frostygum/Auris-Bangkit-Capstone">
     <img src="https://github.com/frostygum/Auris-Bangkit-Capstone/blob/main/docs/logo.png" alt="Logo" width="80" height="80">
   </a>
+ <h3 align="center">Auris Project</h3>
   <p>
     This is final android studio project for Auris Project that has been implemented with tensorflow model. This project is forked from our team project and develop more with machine learning team project.
     This is the <a href="https://github.com/Evandio-Martin/Auris_Project">android studio project</a> that develop by android team.
