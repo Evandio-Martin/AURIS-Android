@@ -14,6 +14,7 @@ https://github.com/othneildrew/Best-README-Template/
   <p>
     This is final android studio project for Auris Project that has been implemented with tensorflow model. This project is forked from our team project and develop more with machine learning team project.
     This is the <a href="https://github.com/Evandio-Martin/Auris_Project">android studio project</a> that develop by android team.
+    This is the machine learning part, please see the machine learning details <a href="https://github.com/frostygum/Auris-Bangkit-Capstone">here</a>.
   </p>
 </p>
 
